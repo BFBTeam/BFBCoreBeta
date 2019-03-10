@@ -1,3 +1,4 @@
 # BFBCore Minecraft BE server software
 
-This Core In Beta Test# BFBCoreBeta
+This Core In Beta Test BFBCoreBeta
+
